@@ -34,14 +34,17 @@ Here's a list of other places you can find me and my stuff:
 *   [Instagram](https://www.instagram.com/cochinochingon/)
 *   [TikTok](https://www.tiktok.com/@cochinochingon/)
 *   [email](mailto:el.gallo@me.com)
+
 * * *
 
 If you're feeling generous…
 
 *   [Cashapp](https://cash.app/$CochinoChingon)
 *   [Venmo](https://venmo.com/cochinochingon)
+
 * * *
 
 Or if you have a lot of money and dropping 20k isn't a big deal for you.
 *   [Wish List](https://www.bhphotovideo.com/find/wishlist.jsp#/)
+
 * * *
