@@ -16,12 +16,11 @@ header:
 Feel free to send a message [here](sms://12817667970) or on [Twitter](https://twitter.com/cochinochingon)
 
 * * *
-
+<address>
 216 Lemmon Dr.
 Box 227
 Reno, NV 89506-8701
-
-[281-766-7970](sms://+12817667970)
+</address>
 * * *
 
 Here's a list of other places you can find me and my stuff:
