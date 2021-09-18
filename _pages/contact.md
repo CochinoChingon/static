@@ -16,6 +16,7 @@ header:
 Feel free to send a message [here](sms://12817667970) or on [Twitter](https://twitter.com/cochinochingon)
 
 * * *
+
 216 Lemmon Dr.
 Box 227
 Reno, NV 89506-8701
@@ -34,14 +35,18 @@ Here's a list of other places you can find me and my stuff:
 *   [Instagram](https://www.instagram.com/cochinochingon/)
 *   [TikTok](https://www.tiktok.com/@cochinochingon/)
 *   [email](mailto:el.gallo@me.com)
+
 * * *
 
 If you're feeling generous…
 
 *   [Cashapp](https://cash.app/$CochinoChingon)
 *   [Venmo](https://venmo.com/cochinochingon)
+
 * * *
 
 Or if you have a lot of money and dropping 20k isn't a big deal for you.
+
 *   [Wish List](https://www.bhphotovideo.com/find/wishlist.jsp#/)
+
 * * *
