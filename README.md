@@ -5,7 +5,7 @@
 🌐 [cochinochingon.com](https://cochinochingon.com)
 
 <p align="center">
-    <img src="https://i.imgur.com/k7HDp50.png">
+    <img src="https://i.imgur.com/uAqrYJ5.png">
 </p>
 
 Listen on:
