@@ -168,6 +168,7 @@ exclude:
   - CHANGELOG
   - config
   - covert-labels
+  - desc.txt
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
