@@ -20,11 +20,12 @@ title_separator          : "-"
 name                     : "Gallo"
 description              : "A podcast about dating and relationship advice with a kink twist, life experiences, and personal stories"
 url                      : "https://cochinochingon.com"
+future                   : false
 # baseurl                  : "/"
 repository               : "cochinochingon/static"
 teaser                   : "assets/images/og_default_header.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 220
+words_per_minute         : 180
 comments:
   provider               : "false" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
@@ -119,7 +120,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "sucias_my_fave"
   lastfm           :
   linkedin         :
   pinterest        :
