@@ -1,5 +1,5 @@
 ---
-title: Toxis Relationships
+title: Toxic Relationships
 exerpt: Today I talk once again with my friend Bonita, and we discuss toxic relationships and how to navigate ourselves and/or our friends OUT of this type of relationship.
 image: /assets/image/show-logo.png
 header:
@@ -16,7 +16,7 @@ Today I talk once again with my friend Bonita, and we discuss toxic relationship
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

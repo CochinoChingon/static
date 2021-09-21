@@ -16,7 +16,7 @@ Join me for the amateur hour. In this episode I talk about the some of the thing
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

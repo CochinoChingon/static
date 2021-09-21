@@ -16,7 +16,7 @@ This episode is late, I apologize. I was trying to figure out how to talk about 
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

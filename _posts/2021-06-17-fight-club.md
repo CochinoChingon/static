@@ -16,7 +16,7 @@ Today I'm gonna talk about fights, and why I can't play fight with friends, and 
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

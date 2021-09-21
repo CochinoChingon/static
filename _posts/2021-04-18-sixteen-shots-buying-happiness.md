@@ -15,7 +15,7 @@ Bonus episode featuring El Gallo
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

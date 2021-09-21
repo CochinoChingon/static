@@ -16,7 +16,7 @@ This episode I talk with my friend Bonita about dating and issues
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

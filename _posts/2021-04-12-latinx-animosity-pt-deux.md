@@ -16,7 +16,7 @@ word words wordy, do you even read this? any who I'm gonna talk about 1st and 2n
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

@@ -16,7 +16,7 @@ This episode is about my time in the military, specifically basic training. and 
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

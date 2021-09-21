@@ -16,7 +16,7 @@ This episode is a teaser where I am a guest on IG @Thisblackgirlpodcast, and we 
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

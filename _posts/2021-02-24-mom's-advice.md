@@ -21,7 +21,7 @@ find me everywhere else at https://cochinochingon.com
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

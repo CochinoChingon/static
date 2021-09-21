@@ -1,7 +1,7 @@
 ---
 title: New Monthly Co-Host
 exerpt: Today we talk about several subjects on the first installment of a Monthly Co-Host with Frannie of "Happy Fangirl Podcast"
-date: 2021-10-13
+date: 2021-09-13
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
@@ -41,7 +41,7 @@ or if you rather text you can hit me up at 210-627-1153. Do NOT Call. I only ans
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

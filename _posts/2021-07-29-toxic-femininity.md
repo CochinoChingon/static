@@ -16,7 +16,7 @@ Today I talk about an issue I've seen with increasing frequency. This time I'm j
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

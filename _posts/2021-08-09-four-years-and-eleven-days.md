@@ -16,7 +16,7 @@ a little about my wife and I, plus an announcement of what's going to happen on 
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

@@ -16,7 +16,7 @@ a discussion with a new friend about Judeo-Christian/Catholic relations
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

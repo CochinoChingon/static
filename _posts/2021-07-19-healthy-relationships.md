@@ -16,7 +16,7 @@ Today I talk with my friend Bonita about healthy relationships.
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

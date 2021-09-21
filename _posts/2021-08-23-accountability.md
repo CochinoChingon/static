@@ -26,7 +26,7 @@ here are the mental health apps and links mentioned in this podcast
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

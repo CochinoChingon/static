@@ -20,7 +20,7 @@ Rate & Review us! #TBGP Instagram: @thisblackgirlpodcast Twitter: @ThisBlackGirl
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

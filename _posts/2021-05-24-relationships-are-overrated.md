@@ -16,7 +16,7 @@ Today I have a conversation with my high school friend JB about dating and the d
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

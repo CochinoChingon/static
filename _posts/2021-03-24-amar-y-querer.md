@@ -18,7 +18,7 @@ This episode I talk a little about my childhood and a lot about my late wife and
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

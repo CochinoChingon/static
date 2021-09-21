@@ -15,7 +15,7 @@ In this episode we discuss beef between friends and business, Sex addiction, tur
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

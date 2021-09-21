@@ -16,7 +16,7 @@ today I talk about my favorite unicorn, what is a unicorn and what we did togeth
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

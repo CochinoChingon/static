@@ -15,7 +15,7 @@ Join us as we talk Random Kinks with our first guest Gallo Chingon from "Sucias 
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

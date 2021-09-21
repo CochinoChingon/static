@@ -16,7 +16,7 @@ This episode is about love and death. particularly finding true love before you 
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

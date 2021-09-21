@@ -17,7 +17,7 @@ I recorded on my end, so you'll hear what sounds like two episodes… or not, if
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

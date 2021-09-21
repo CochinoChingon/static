@@ -16,7 +16,7 @@ this episode is short but important. with a simple question, are you having the 
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

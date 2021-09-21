@@ -17,7 +17,7 @@ You can find him on Instagram @kairu2019, you might get lucky and get a digital 
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

@@ -16,7 +16,7 @@ Today I talk with my friend Cakes, about Roller Derby, where it's at, where it's
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

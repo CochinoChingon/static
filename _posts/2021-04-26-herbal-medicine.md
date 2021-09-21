@@ -17,7 +17,7 @@ Hopefully this will let you know that you have options besides taking a pill for
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

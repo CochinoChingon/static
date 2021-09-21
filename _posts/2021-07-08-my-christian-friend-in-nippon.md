@@ -16,7 +16,7 @@ Today I chat with my friend Steve in Japan. Sidenote, Japan is called Nippon in 
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

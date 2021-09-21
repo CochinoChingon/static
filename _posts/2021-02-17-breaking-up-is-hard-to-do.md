@@ -17,7 +17,7 @@ It's really simple, essentially you break up in a way that makes it not only cle
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

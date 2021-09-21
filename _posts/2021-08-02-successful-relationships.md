@@ -16,7 +16,7 @@ Today I talk with Bella and Nova from "Let's Talk About It Podcast" you can find
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

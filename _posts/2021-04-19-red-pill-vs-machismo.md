@@ -22,7 +22,7 @@ Now I know I that this episode could have been done better, and I shall.
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

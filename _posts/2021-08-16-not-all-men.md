@@ -17,7 +17,7 @@ You might have to register on FetLife to be able to view
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

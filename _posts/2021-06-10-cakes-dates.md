@@ -16,7 +16,7 @@ a general conversation with a derby fran about dating and some of the criteria t
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

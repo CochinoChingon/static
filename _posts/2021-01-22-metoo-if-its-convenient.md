@@ -19,7 +19,7 @@ And ideas for episodes and suggestions are always welcome, yes even criticisms. 
 
 # Mentioned items
 
-# Resources
+The article mentioned, where Hannah Jennings of Auckland, New Zealand made an accusation of Mo "Quadzilla" Sanders. Stating that he sexually assaulted her. Ther are a few social media posts that have a dead link to the original article which was on [derbycentral.net](derbycentral.net) which is now a french language site.
 
 # Show links
 

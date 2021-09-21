@@ -16,7 +16,7 @@ Today I talk with my new friend who happens to be friends with my sister, about 
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

@@ -17,7 +17,7 @@ Now you might think less of me because I in a way defrauded someone, but if you 
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

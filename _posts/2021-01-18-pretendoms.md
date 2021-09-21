@@ -17,7 +17,7 @@ I think I know what **A** root cause is that lead to these pretenders. _hint_ I 
 
 # Mentioned items
 
-# Resources
+* [50 Shades of](https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey) (Stupidity)
 
 # Show links
 

@@ -16,7 +16,7 @@ how to make your life easier by being selfish
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

@@ -17,7 +17,7 @@ But this isn't about those shows, there's a controversial question but only beca
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

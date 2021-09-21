@@ -16,7 +16,7 @@ Today I talk about how I lost my unicorn. I mean, come on, what red blooded Chic
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

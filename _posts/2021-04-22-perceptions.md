@@ -17,7 +17,7 @@ Plus an excerpt from my time in the Army which could have been disastrous to my 
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

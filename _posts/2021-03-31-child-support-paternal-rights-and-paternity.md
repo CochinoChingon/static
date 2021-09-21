@@ -16,7 +16,7 @@ In this episode I'm gonna talk about my experience with the Family court system 
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

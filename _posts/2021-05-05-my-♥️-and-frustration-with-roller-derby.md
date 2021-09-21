@@ -17,7 +17,7 @@ By they I mean the Governing body of Roller Derby [WFTDA](https://wftda.com) as 
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

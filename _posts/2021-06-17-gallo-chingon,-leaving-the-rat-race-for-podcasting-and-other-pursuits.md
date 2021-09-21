@@ -15,7 +15,7 @@ Shaved head, painted fingernails, multiple earring that’s Gallo Chingon, the p
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

@@ -16,7 +16,7 @@ if I could bottle up my confidence I do so in a heartbeat and give out samples. 
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 

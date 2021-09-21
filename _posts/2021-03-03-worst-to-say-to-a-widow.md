@@ -17,7 +17,7 @@ Plus a different perspective on widows in general, see I imagine that most peopl
 
 # Mentioned items
 
-# Resources
+
 
 # Show links
 
