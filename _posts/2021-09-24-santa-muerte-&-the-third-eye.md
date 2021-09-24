@@ -9,6 +9,7 @@ header:
   overlay_filter: 0.6
 podcast_image: /assets/images/brnf.jpg
 ---
+
 <iframe src="https://open.spotify.com/episode/667dex4sU7Z54upPO4Up4n" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Welcome to another episode of Blood Rituals, now featuring an amazing Guest Gallo Chingon! Today, we delve into Gallo’s experiences with his ancestors attempts to reach out to him, as well as the beckoning from Santa Muerte.
