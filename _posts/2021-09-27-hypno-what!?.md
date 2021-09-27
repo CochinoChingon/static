@@ -1,24 +1,28 @@
 ---
 permalink: /episodes
-title: Hypno What
-exerpt: In this episode I speak with J. Robert Parker is a Union certified Master Hypnotist and owner of [Twin Ravens Hypnotherapy and Research LLC](http://twinravens.org). Mr. Parker's mission statement is simple- To be the light for those of us who cannot see, the guide for those of us who have lost the way, and the peace for those of us who have forgotten. He is available for lectures, interviews and both group and private sessions.
+title: Hypno wHaT!?
+exerpt: In this episode I speak with J. Robert Parker is a Union certified Master Hypnotist and owner of [Twin Ravens Hypnotherapy and Research LLC](http://twinravens.org). Mr. Parker's mission statement is simple: To be the light for those of us who cannot see, the guide for those of us who have lost the way, and the peace for those of us who have forgotten. He is available for lectures, interviews and both group and private sessions.
 date: 2021-09-27
+image: /assets/image/show-logo.png
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
   show_overlay_exerpt: true
   overlay_filter: 0.6
+  og_images: /assets/images/episodes/cover.png
 podcast_image: /assets/images/show-logo.png
 ---
-<iframe src="https://open.spotify.com/embed/episode/41HIMgvxbHaMYDj61205op" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src=https://open.spotify.com/embed/episode/2EZOG2mKB3Rm0BFD1awp61 width=100% height=232 frameborder=0 allowtransparency=true allow=encrypted-media></iframe>
 
 In this episode I speak with J. Robert Parker is a Union certified Master Hypnotist and owner of [Twin Ravens Hypnotherapy and Research LLC](http://twinravens.org). Mr. Parker's mission statement is simple: To be the light for those of us who cannot see, the guide for those of us who have lost the way, and the peace for those of us who have forgotten. He is available for lectures, interviews and both group and private sessions.
 
 [Mr. Parker](https://i.imgur.com/NGjDqVZ.jpg) and I discuss how opposites attract but not in the way you would think. And how to better communicate with your partner.
 
+to learn more about hypnotherapy, check out other [Podcasts](https://twinravens.org/?page_id=384) he's been a guest on and explains hypnotherapy
+
 # Mentioned items
 
-
+[What The Fear](https://open.spotify.com/episode/4LRlUHuk7C2fxKQpEFnLvL)
 
 # Show links
 
