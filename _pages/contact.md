@@ -17,7 +17,7 @@ Feel free to send a [message](sms://12817667970) and lemme know whatcha think ab
 
 ## do you have an idea for a podcast episode? 
 
-shoot me an [email](mailto:el.gallo.cochino@gmail.com?subject=Episode Idea!)
+shoot me an [email](mailto:el.gallo.cochino@gmail.com?subject="Episode Idea")
 
 * * *
 <address>
