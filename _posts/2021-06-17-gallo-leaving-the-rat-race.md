@@ -1,7 +1,8 @@
 ---
 title: Gallo Chingon, Leaving the Rat Race for Podcasting and Other Pursuits
-exerpt: Shaved head, painted fingernails, multiple earring that’s Gallo Chingon, the podcaster behind Sucias are my Favorite, a welcome addition to our local landscape. Gallo moved to Reno for a job at Tesla but has since left to begin a life of content creation and exploration of hobbies. He values his time and says he’s out of the rat race for now. In this Our Town Reno podcast episode with Richard Bednarski, he explains how he was able to reconnect with many different parts of his personality here in northern Nevada.
+exerpt: Shaved head, painted fingernails, multiple earring that’s Gallo Chingon, the podcaster behind Sucias are my Favorite, a welcome addition to our local landscape.
 date: 2021-06-17
+category: feat
 header:
   teaser: /assets/images/otr.png
   overlay_image: /assets/images/otr.png
