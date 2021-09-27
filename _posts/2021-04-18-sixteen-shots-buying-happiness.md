@@ -2,6 +2,7 @@
 title: Buying Happiness
 exerpt: Bonus episode featuring El Gallo
 date: 2021-04-18
+category: feat
 header:
   teaser: /assets/images/16shots.png
   overlay_image: /assets/images/16shots.png
