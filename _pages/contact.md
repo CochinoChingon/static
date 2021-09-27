@@ -13,7 +13,9 @@ header:
 
 📮 Questions or you just want to get in touch?
 
-Feel free to send a message [here](sms://12817667970) or on [Twitter](https://twitter.com/cochinochingon)
+Feel free to send a message [here](sms://12817667970) 
+
+do you have an idea for a podcast episode? shoot me an [email](mailto:el.gallo.cochino@gmail.com?subject="Episode Idea!")
 
 * * *
 <address>
