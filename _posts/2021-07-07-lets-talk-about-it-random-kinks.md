@@ -1,5 +1,5 @@
 ---
-title: Episode #4 - Random Kinks
+title: Random Kinks
 exerpt: Join us as we talk Random Kinks with our first guest Gallo Chingon from "Sucias are my Favorite" podcast!
 date: 2021-07-07
 category: feat
@@ -10,6 +10,8 @@ header:
   overlay_filter: 0.6
 podcast_image: /assets/image/ltai.png
 ---
+Let's Talk About It Episode 4
+
 <iframe src="https://open.spotify.com/embed/episode/2yT9eCEMoTDO8RrCZ9sD0B" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Join us as we talk Random Kinks with our first guest Gallo Chingon from "Sucias are my Favorite" podcast!
