@@ -13,9 +13,11 @@ header:
 
 📮 Questions or you just want to get in touch?
 
-Feel free to send a message [here](sms://12817667970) 
+Feel free to send a [message](sms://12817667970) and lemme know whatcha think about the Pod
 
-do you have an idea for a podcast episode? shoot me an [email](mailto:el.gallo.cochino@gmail.com?subject="Episode Idea!")
+## do you have an idea for a podcast episode? 
+
+shoot me an [email](mailto:el.gallo.cochino@gmail.com?subject="Episode Idea!")
 
 * * *
 <address>
@@ -28,7 +30,7 @@ Reno, NV 89506-8701
 Here's a list of other places you can find me and my stuff:
 
 *   [Join the livestream Audience](http://riverside.fm/studio/sucias)
-*   [YouTube](http://www.youtube.com/channel/UCgYSjBmIL3nkxBon4f0Gl_Q?sub_confirmation=1)
+*   [YouTube](http://www.youtube.com/channel/UCgYSjBmIL3nkxBon4f0Gl_Q)
 *   [Twitter](http://twitter.com/cochinochingon)
 *   [SnapChat](http://www.snapchat.com/add/cochinochingon)
 *   [Instagram](https://www.instagram.com/cochinochingon/)
@@ -48,4 +50,3 @@ Or if 20k is chump change…
 
 *   [Wish List](https://www.bhphotovideo.com/find/wishlist.jsp#/)
 
-* * *
