@@ -2,6 +2,7 @@
 title: Season 2 E-1 - Cuffing feat. Gallo (@cochinochingon)
 exerpt: Hosts- Lola (@ola.ms.lola) & HilDiva (@thehildiva) Feat. Gallo (@cochinochingon)
 date: 2021-08-04
+category: feat
 header:
   teaser: /assets/images/tbgp.jpg
   overlay_image: /assets/images/tbgp.jpg
