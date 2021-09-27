@@ -8,7 +8,6 @@ header:
   overlay_image: /assets/images/header-single-episode.png
   show_overlay_exerpt: true
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 podcast_image: /assets/images/show-logo.png
 ---
 <iframe src=https://open.spotify.com/embed/episode/2EZOG2mKB3Rm0BFD1awp61 width=100% height=232 frameborder=0 allowtransparency=true allow=encrypted-media></iframe>
