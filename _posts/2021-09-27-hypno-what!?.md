@@ -10,6 +10,7 @@ header:
   overlay_filter: 0.6
 podcast_image: /assets/images/show-logo.png
 ---
+
 <iframe src=https://open.spotify.com/embed/episode/2EZOG2mKB3Rm0BFD1awp61 width=100% height=232 frameborder=0 allowtransparency=true allow=encrypted-media></iframe>
 
 In this episode I speak with J. Robert Parker is a Union certified Master Hypnotist and owner of [Twin Ravens Hypnotherapy and Research LLC](http://twinravens.org). Mr. Parker's mission statement is simple: To be the light for those of us who cannot see, the guide for those of us who have lost the way, and the peace for those of us who have forgotten. He is available for lectures, interviews and both group and private sessions.
