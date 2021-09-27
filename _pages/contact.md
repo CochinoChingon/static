@@ -35,14 +35,14 @@ Here's a list of other places you can find me and my stuff:
 
 * * *
 
-If you're feeling generous…
+If you'd like to contribute to the podcast
 
 *   [Cashapp](https://cash.app/$CochinoChingon)
 *   [Venmo](https://venmo.com/cochinochingon)
 
 * * *
 
-Or if you have a lot of money and dropping 20k isn't a big deal for you.
+Or if 20k is chump change…
 
 *   [Wish List](https://www.bhphotovideo.com/find/wishlist.jsp#/)
 
