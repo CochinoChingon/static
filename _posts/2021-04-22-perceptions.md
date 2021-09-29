@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-04-22
 ---
+
+Perceptions
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/6jLfqLFWa97ugxOITv9l44" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Today I chat with a friend from high school and we discuss dating and how to navigate that in todays world.

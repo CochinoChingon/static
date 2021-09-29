@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-06-03
 ---
+
+Kevin Samuels and other things
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/2lSmbTdzit6jxspn8fAq3m" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 This episode I talk with my friend Bonita about dating and issues

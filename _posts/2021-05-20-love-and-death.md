@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-05-20
 ---
+
+Love and Death
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/059KIQbrNBDzQQYT5xvFqP" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 This episode is about love and death. particularly finding true love before you die and the joy of having a cheerleader

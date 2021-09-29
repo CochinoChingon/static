@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-03-31
 ---
+
+Child Support, Paternal Rights and Paternity, Or how Family law is not concerned with family
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/5CX855zaK07igRNzcX8qNa" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 In this episode I'm gonna talk about my experience with the Family court system and how they can adversely affect males even when they're well intentioned.

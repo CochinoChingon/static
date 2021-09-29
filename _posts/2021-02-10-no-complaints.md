@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-02-10
 ---
+
+No Complaints, Or the funny shit females say to try and impress me and how I go about my business
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/4uu3J2evlnU6odUtxq4nxc" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Join me for the amateur hour. In this episode I talk about the some of the things that females have said to try and impress me, or perhaps just get my attention. However, comma, I am not easily impressed. Sure, I'm easily amused, but that's something else entirely.

@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-04-26
 ---
+
+Herbal Medicine
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/7dyCnnDxulRpcF1XklXZZJ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 this episode I talk about my experience with legal and illegal drugs and my preference for eastern and or herbal medicine.

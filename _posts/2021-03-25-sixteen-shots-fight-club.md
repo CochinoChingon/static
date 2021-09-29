@@ -10,6 +10,9 @@ header:
   overlay_filter: 0.6
 podcast_image: /assets/images/16shots.png
 ---
+
+Fight Club
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/7MVLZ2FoIifFtr9tePj9nG" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 In this episode we discuss beef between friends and business, Sex addiction, turning 40 and DW4

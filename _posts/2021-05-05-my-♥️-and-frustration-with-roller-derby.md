@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-05-05
 ---
+
+My ♥️ and Frustration with Roller Derby
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/1j7U65LPpWt2zId48cVixj" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Today I talk about my love and frustration with roller derby and how it could fix itself… if they can get their head out of their ass.

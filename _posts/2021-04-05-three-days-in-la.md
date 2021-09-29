@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-04-05
 ---
+
+Three Days in LA
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/4KiZczz1BHevdH7yvRsrF7" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 I was in LA and managed to get together with a friend that has worked on popular shows like Rick & Morty and now with the ShadowMachine (the production company behind BoJack Horseman).

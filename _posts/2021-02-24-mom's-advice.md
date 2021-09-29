@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-02-24
 ---
+
+Mom's Advice, or the best advice I got from my mom that's helped me for a few decades.
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/0V8SKWokk8xzkIXa83jEiY" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 

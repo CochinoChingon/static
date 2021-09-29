@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-05-27
 ---
+
+Confidence
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/7in2FguVB3ozCpzCvgLwtD" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 if I could bottle up my confidence I do so in a heartbeat and give out samples. But since I haven't figured out how to do that, I'm gonna talk about how to approach females, or rather go back to basics and talk a little about hygiene

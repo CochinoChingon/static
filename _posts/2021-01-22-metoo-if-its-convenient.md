@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-01-23
 ---
+
+MeToo if it's convenient, Or How there's a Darkside of MeToo and how I learned to handle it
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/0LsmCXTvEvOxPAHavZ7kay" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 In this episode I talk about the issues surrounding MeToo, from being harassed, falsely accused and other things related to MeToo.

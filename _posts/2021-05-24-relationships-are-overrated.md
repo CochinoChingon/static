@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-05-24
 ---
+
+Relationships are Overrated
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/6p6ofCgvcRURQHbSISyJPw" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Today I have a conversation with my high school friend JB about dating and the dynamics between males and females

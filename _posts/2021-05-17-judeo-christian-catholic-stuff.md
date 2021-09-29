@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-05-17
 ---
+
+Judeo Christian Catholic Stuff
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/0NHwxvSk4z8SqMb93HAuC7" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 a discussion with a new friend about Judeo-Christian/Catholic relations

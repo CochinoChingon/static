@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-08-30
 ---
+
+Toxic Relationships
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/7wWRIoK46bcN8dDLomq7Jk" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Today I talk once again with my friend Bonita, and we discuss toxic relationships and how to navigate ourselves and/or our friends OUT of this type of relationship.

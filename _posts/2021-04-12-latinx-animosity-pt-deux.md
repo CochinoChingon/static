@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-04-12
 ---
+
+Latinx Animosity pt deux, 1st & 2nd generation Latinos
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/5nrI1tQm7Xi1Mpc1PPn1VV" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 word words wordy, do you even read this? any who I'm gonna talk about 1st and 2nd gen stuff and how they deal with life

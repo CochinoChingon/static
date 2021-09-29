@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-04-09
 ---
+
+Latinx Animosity, or how I merged two different episodes into one
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/6A04dH1c0NQfMKRSVgw4Sp" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Another episode, this time I'm talking about animosity I've noticed over the years that I hadn't paid attention to, until I spoke on a friends podcast.

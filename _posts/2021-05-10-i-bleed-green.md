@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-05-10
 ---
+
+I Bleed Green
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/0BXTf1NHLaqintf27zSjXv" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 This episode is about my time in the military, specifically basic training. and a few other ramblings regarding life and racism

@@ -10,6 +10,9 @@ header:
   overlay_filter: 0.6
 podcast_image: /assets/images/16shots.png
 ---
+
+16 Shots with JB and A Dubb - Buying Happiness
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/6qiEhTh7t6jOmfHn9i3op0" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Bonus episode featuring El Gallo

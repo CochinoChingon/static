@@ -9,6 +9,9 @@ header:
   overlay_filter: 0.6
 podcast_image: /assets/images/show-logo.png
 ---
+
+New Monthly Co-Host
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/5XKTYQFeEf568XLU7Gss7p" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Today we talk about several subjects on the first installment of a Monthly Co-Host with Frannie of "Happy Fangirl Podcast"

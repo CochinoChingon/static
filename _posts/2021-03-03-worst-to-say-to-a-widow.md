@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-03-03
 ---
+
+The worse thing you could say to a widow and the worst thing we say, OR how losing your Better Half sucks
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/0R4QUpMr5G3maL2dyh7GoX" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 In this episode I talk about the worst possible thing you can say to a widow/widower AND the worst thing we ourselves might say or possibly think about widowhood.

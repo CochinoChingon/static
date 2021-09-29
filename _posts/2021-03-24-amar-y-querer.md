@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-03-24
 ---
+
+Amar y Querer, Or how a song from the 70s taught me the meaning of love almost 30 years later
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/4gNKfsZ5gI7kEZ1sV2Vc8C" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 This episode I talk a little about my childhood and a lot about my late wife and how I learned to value love over lust.

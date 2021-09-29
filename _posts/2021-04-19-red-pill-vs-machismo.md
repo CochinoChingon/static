@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-04-19
 ---
+
+Red Pill vs Machismo
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/5CpY9x2CDVkP3EFQWMKlaw" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Is there a difference between Red Pill and Machismo? well today you gon lurn. as mentioned in this episode, here are two of the thesis I mentioned.

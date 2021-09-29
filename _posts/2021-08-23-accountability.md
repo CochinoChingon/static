@@ -10,6 +10,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 date: 2021-08-23
 ---
+
+Accountability
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/4G66yA1dhK8jEgjpj1I0ib" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 here are the mental health apps and links mentioned in this podcast
