@@ -2,9 +2,9 @@
 main:
   - title: "Episodes"
     url: /episodes
+  - title: "Featured"
+    url: /feat
   - title: "About"
     url: /about
   - title: "Contact"
     url: /contact
-  - title: "Featured"
-    url: /feat
