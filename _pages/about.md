@@ -32,7 +32,6 @@ Join Gallo through this journey, you may be aghast or get a good laugh.
 <p> Some of his stories are at times tragic, but others will leave you in stitches. He has definitely gotten himself out of some dangerous and precarious situations!</p>
 <br>
 
-*   [Be part of the livestream Audience](http://riverside.fm/studio/sucias)
 *   [YouTube](http://www.youtube.com/channel/UCgYSjBmIL3nkxBon4f0Gl_Q?sub_confirmation=1)
 *   [Twitter](http://twitter.com/cochinochingon)
 *   [Instagram](https://www.instagram.com/cochinochingon/)
