@@ -1,5 +1,4 @@
 ---
-permalink: /episodes
 title: Once Again with Cookie
 exerpt: Once again I have a conversation with Cookie, she was the former [sex work](https://anchor.fm/sucias/episodes/Sex-Work-e14j4h2)er I interviewed in the episode of the same name. This is something of a follow up interview, though the questions asked were the ones meant for the first go around. (I had my notes with me this time)
 date: 2021-09-20
