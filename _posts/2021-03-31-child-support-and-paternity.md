@@ -1,19 +1,26 @@
 ---
 title: Child Support, Paternal Rights and Paternity, Or how Family law is not concerned with family
-exerpt: In this episode I'm gonna talk about my experience with the Family court system and how they can adversely affect males even when they're well intentioned.
-image: /assets/image/show-logo.png
+
+exerpt: "I talk about my experience with the Family court system and how they can adversely affect males even when they're well intentioned"
+
+
+author_profile: true
+
+description: "I talk about my experience with the Family court system and how they can adversely affect males even when they're well intentioned"
+
+
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
   show_overlay_exerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
+
 date: 2021-03-31
 ---
 
-Child Support, Paternal Rights and Paternity, Or how Family law is not concerned with family
-
 <iframe src="https://open.spotify.com/embed-podcast/episode/5CX855zaK07igRNzcX8qNa" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Child Support, Paternal Rights and Paternity, Or how Family law is not concerned with family
 
 In this episode I'm gonna talk about my experience with the Family court system and how they can adversely affect males even when they're well intentioned.
 

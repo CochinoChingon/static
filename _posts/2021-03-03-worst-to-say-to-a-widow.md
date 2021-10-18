@@ -1,19 +1,23 @@
 ---
 title: The worse thing you could say to a widow and the worst thing we say, OR how losing your Better Half sucks
-exerpt: In this episode I talk about the worst possible thing you can say to a widow/widower AND the worst thing we ourselves might say or possibly think about widowhood.
-image: /assets/image/show-logo.png
+exerpt: "What's the worst possible thing you can say to a widow/er?"
+author_profile: true
+
+description: "What's the worst possible thing you can say to a widow/er?"
+
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
   show_overlay_exerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
+
 date: 2021-03-03
 ---
 
-The worse thing you could say to a widow and the worst thing we say, OR how losing your Better Half sucks
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/0R4QUpMr5G3maL2dyh7GoX" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+The worse thing you could say to a widow and the worst thing we say, OR how losing your Better Half sucks
 
 In this episode I talk about the worst possible thing you can say to a widow/widower AND the worst thing we ourselves might say or possibly think about widowhood.
 Plus a different perspective on widows in general, see I imagine that most people presume widows are terribly saddened at the loss of their spouse. You'd be surprised what the answer is

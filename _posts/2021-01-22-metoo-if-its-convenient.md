@@ -1,17 +1,18 @@
 ---
 title: MeToo if it's convenient, Or How there's a Darkside of MeToo and how I learned to handle it
-exerpt: In this episode I talk about the issues surrounding MeToo, from being harassed, falsely accused and other things related to MeToo.
-image: /assets/image/show-logo.png
+exerpt: "Issues surrounding MeToo, from being harassed, falsely accused and other things."
+author_profile: true
+
+description: "Issues surrounding MeToo, from being harassed, falsely accused and other things."
+
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_exerpt: true
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
+
 date: 2021-01-23
 ---
-
-MeToo if it's convenient, Or How there's a Darkside of MeToo and how I learned to handle it
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/0LsmCXTvEvOxPAHavZ7kay" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 

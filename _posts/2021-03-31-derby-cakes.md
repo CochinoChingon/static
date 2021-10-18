@@ -1,13 +1,14 @@
 ---
 title: Derby Cakes
-exerpt: Today I talk with my friend Cakes, about Roller Derby, where it's at, where it's going and can we course correct? mentioned in the Podcast https://WFTDA.org https://MRDA.org https://espn.com https://rollercon.com
-image: /assets/image/show-logo.png
+exerpt: "Chat with my friend Cakes, about Roller Derby, where it's at, where it's going and can we course correct"
+author_profile: true
+description: "Chat with my friend Cakes, about Roller Derby, where it's at, where it's going and can we course correct"
+
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_exerpt: true
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-03-31
 ---
 

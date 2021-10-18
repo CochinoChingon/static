@@ -1,16 +1,18 @@
 ---
 title: pretendoms, Or the Problems with 50 Shades of Stupid and how I think we got here
-exerpt: In this episode I discuss the problem with fake doms, or pretendoms (as I prefer) that somehow have managed to make their way into the kink community without any concern for anyone but themselves. 
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
   show_overlay_exerpt: false
   overlay_filter: 0.6
+
 date: 2021-01-18
 podcast_image: /assets/images/show-logo.png
 ---
+
 <iframe src="https://open.spotify.com/embed-podcast/episode/2BYb2wN25Vurv8v18aTaFl" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+The problem with fake doms, or pretendoms is that they've somehow have managed to make their way into the kink community without any concern for anyone but themselves. 
 In this episode I discuss the problem with fake doms, or pretendoms (as I prefer) that somehow have managed to make their way into the kink community without any concern for anyone but themselves. 
 
 I think I know what **A** root cause is that lead to these pretenders. _hint_ I have a great disdain for _50 Shades of (shit)_ Plus a guest speaker shares her story in dealing with one of these pretendoms

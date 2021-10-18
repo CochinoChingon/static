@@ -1,6 +1,5 @@
 ---
 title: New Monthly Co-Host
-exerpt: Today we talk about several subjects on the first installment of a Monthly Co-Host with Frannie of "Happy Fangirl Podcast"
 date: 2021-09-13
 header:
   teaser: /assets/images/header-single-episode.png
@@ -10,7 +9,7 @@ header:
 podcast_image: /assets/images/show-logo.png
 ---
 
-New Monthly Co-Host
+Today we talk about several subjects on the first installment of a Monthly Co-Host with Frannie of "Happy Fangirl Podcast"
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/5XKTYQFeEf568XLU7Gss7p" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 

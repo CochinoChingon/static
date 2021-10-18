@@ -10,7 +10,7 @@ header:
 podcast_image: /assets/images/show-logo.png
 ---
 
-apple hypno test
+What can hypnotherapy do for you? find out what it's done for me and learn the possibilites!
 
 <iframe src='https://embed.podcasts.apple.com/us/podcast/hypnotherapy-again/id1548173787?i=1000538900514&itsct=podcast_box_player&itscg=30200&ls=1&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 

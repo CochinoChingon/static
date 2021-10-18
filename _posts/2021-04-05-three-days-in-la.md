@@ -1,19 +1,19 @@
 ---
 title: Three Days in LA
-exerpt: I was in LA and managed to get together with a friend that has worked on popular shows like Rick & Morty and now with the ShadowMachine (the production company behind BoJack Horseman).
-image: /assets/image/show-logo.png
+exerpt: "I managed to get together with a friend that has worked on popular shows"
+author_profle: true
+description: "I managed to get together with a friend that has worked on popular shows"
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
   show_overlay_exerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-04-05
 ---
 
-Three Days in LA
-
 <iframe src="https://open.spotify.com/embed-podcast/episode/4KiZczz1BHevdH7yvRsrF7" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Three Days in LA
 
 I was in LA and managed to get together with a friend that has worked on popular shows like Rick & Morty and now with the ShadowMachine (the production company behind BoJack Horseman).
 But this isn't about those shows, there's a controversial question but only because others ask this to weaponize against the person (read males) being asked. In any who, I'll stop rambling here and just let you listen in.

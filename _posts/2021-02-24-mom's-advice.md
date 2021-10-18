@@ -1,26 +1,22 @@
 ---
 title: mom's advice, Or the best advice I got from my mom that's helped me for a few decades
-exerpt:
-image: /assets/image/show-logo.png
+exerpt: "Mom's Advice, or the best advice I got from my mom that's helped me for a few decades."
+author_profile: true
+
+description: "Mom's Advice, or the best advice I got from my mom that's helped me for a few decades."
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
   show_overlay_exerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
+  
 date: 2021-02-24
 ---
-
-Mom's Advice, or the best advice I got from my mom that's helped me for a few decades.
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/0V8SKWokk8xzkIXa83jEiY" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 This episode was an impromptu livestream where I allowed the viewers to pick a Card labeled A, B and C which I had written a topic on the back of each. The selected card was "best advice I got from my mom" and so I rambled on for about 30 minutes and this is what I ended up with, after dealing with some technical difficulties and removing excessive silence.
-
---
-
-find me everywhere else at https://cochinochingon.com
 
 # Mentioned items
 
