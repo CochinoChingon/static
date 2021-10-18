@@ -11,6 +11,9 @@ header:
   og_images: /assets/images/episodes/cover.png
 podcast_image: /assets/images/show-logo.png
 ---
+
+Hypnotherapy again?
+
 <iframe src=https://open.spotify.com/embed/episode/7efAXARWBUgKmorChFxUZJ width=100% height=232 frameborder=0 allowtransparency=true allow=encrypted-media></iframe>
 
 This episode I talk about myself again, specifically some issues I've been dealing and struggling with. Some of these things are recent, in the past few years, others I'd done obliviously for decades. Now how does it relate to hypnotherapy? or rather my need for it, follow along today and find out.
