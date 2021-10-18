@@ -1,6 +1,6 @@
 ---
-title: Orgasm Statistcs
-exerpt: This episode I have a conversation with Bonita re- [Orgasm Statistics](https-//pleasurebetter.com/orgasm-statistics/)
+title: Orgasm Statistics
+exerpt: This episode I have a conversation with Bonita re- [Orgasm Statistics](https://pleasurebetter.com/orgasm-statistics/)
 date: 2021-10-11
 header:
   teaser: /assets/images/header-single-episode.png
@@ -10,9 +10,9 @@ header:
 podcast_image: /assets/images/show-logo.png
 ---
 
-Orgasm Statistcs
+Orgasm Statistics
 
-<iframe src='https://open.spotify.com/embed/episode/1tKXmCXKlTgSPbgw5pdyAu' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/orgasm-statistics/id1548173787?i=1000538182585&itsct=podcast_box_player&itscg=30200&ls=1&amp;theme=dark' width='100%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 This episode I have a conversation with Bonita re: [Orgasm Statistics](https://pleasurebetter.com/orgasm-statistics/)
 
@@ -20,9 +20,7 @@ If you're new to the show you might want to brush up and check out an early epis
 
 # Mentioned items
 
-[Theory of 100](https://anchor.fm/sucias/episodes/Theory-of-100--Or-how-to-tell-if-a-male-might-be-any-good-in-the-sack-and-other-useless-things-epp04s)
 
-[Orgasm Statistics](https://pleasurebetter.com/orgasm-statistics/)
 
 # Show links
 

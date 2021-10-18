@@ -2,7 +2,6 @@
 title: apple hypno test
 exerpt: This episode I talk about myself again, specifically some issues I've been dealing and struggling with. Some of these things are recent, in the past few years, others I'd done obliviously for decades. Now how does it relate to hypnotherapy? or rather my need for it, follow along today and find out.
 date: 2021-10-16
-image: /assets/image/show-logo.png
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
@@ -13,7 +12,7 @@ podcast_image: /assets/images/show-logo.png
 
 apple hypno test
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/hypnotherapy-again/id1548173787?i=1000538900514&itsct=podcast_box_player&itscg=30200&ls=1&amp;theme=dark' width='100%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/hypnotherapy-again/id1548173787?i=1000538900514&itsct=podcast_box_player&itscg=30200&ls=1&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 This episode I talk about myself again, specifically some issues I've been dealing and struggling with. Some of these things are recent, in the past few years, others I'd done obliviously for decades. Now how does it relate to hypnotherapy? or rather my need for it, follow along today and find out.
 
