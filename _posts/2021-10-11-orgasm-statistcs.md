@@ -1,5 +1,4 @@
 ---
-permalink: /episodes
 title: Orgasm Statistcs
 exerpt: This episode I have a conversation with Bonita re- [Orgasm Statistics](https-//pleasurebetter.com/orgasm-statistics/)
 date: 2021-10-11
