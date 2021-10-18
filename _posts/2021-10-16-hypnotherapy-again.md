@@ -1,7 +1,7 @@
 ---
-title: apple hypno test
+title: Hypnotherapy again!?
 exerpt: This episode I talk about myself again, specifically some issues I've been dealing and struggling with. Some of these things are recent, in the past few years, others I'd done obliviously for decades. Now how does it relate to hypnotherapy? or rather my need for it, follow along today and find out.
-date: 2021-10-16
+date: 2021-10-18
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
