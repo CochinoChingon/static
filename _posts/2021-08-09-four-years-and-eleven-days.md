@@ -1,6 +1,6 @@
 ---
 title: Four Years and Eleven Days
-excerpt: ""a little about my wife and I, plus an announcement of what's going to happen on the podcast"
+excerpt: "a little about my wife and I, plus an announcement of what's going to happen on the podcast"
 date: 2021-08-09
 author_profile: true
 header:
@@ -8,6 +8,7 @@ header:
   overlay_image: /assets/images/header-single-episode.png
   show_overlay_excerpt: false
   overlay_filter: 0.6
+podcast_image: /assets/images/show-logo.png
 ---
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/2hhFkOnaXx3el4kApe0m1n" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
