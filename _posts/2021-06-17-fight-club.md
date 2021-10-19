@@ -1,13 +1,12 @@
 ---
 title: Fight Club
-exerpt: Today I'm gonna talk about fights, and why I can't play fight with friends, and a little tidbit about an ability I have.
-image: /assets/image/show-logo.png
+excerpt: "Today I'm gonna talk about fights, and why I can't play fight with friends, and a little tidbit about an ability I have"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-06-17
 ---
 <iframe src="https://open.spotify.com/embed-podcast/episode/772B52MQxVVds3rUMtetbS" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

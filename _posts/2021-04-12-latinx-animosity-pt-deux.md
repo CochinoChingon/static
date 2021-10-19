@@ -1,13 +1,12 @@
 ---
 title: Latinx Animosity pt deux, 1st & 2nd generation Latinos
-exerpt: word words wordy, do you even read this? any who I'm gonna talk about 1st and 2nd gen stuff and how they deal with life
-image: /assets/image/show-logo.png
+excerpt: word words wordy, do you even read this? any who I'm gonna talk about 1st and 2nd gen stuff and how they deal with life
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-04-12
 ---
 

@@ -1,13 +1,12 @@
 ---
 title: Being Selfish is Selfless
-exerpt: how to make your life easier by being selfish
-image: /assets/image/show-logo.png
+excerpt: "how to make your life easier by being selfish"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-05-13
 ---
 

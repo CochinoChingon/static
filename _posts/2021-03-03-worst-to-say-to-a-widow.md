@@ -1,6 +1,6 @@
 ---
 title: The worse thing you could say to a widow and the worst thing we say, OR how losing your Better Half sucks
-exerpt: "What's the worst possible thing you can say to a widow/er?"
+excerpt: "What's the worst possible thing you can say to a widow/er?"
 author_profile: true
 
 description: "What's the worst possible thing you can say to a widow/er?"
@@ -8,7 +8,7 @@ description: "What's the worst possible thing you can say to a widow/er?"
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
 
 date: 2021-03-03

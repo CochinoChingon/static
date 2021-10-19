@@ -1,13 +1,12 @@
 ---
 title: Kevin Samuels and other things
-exerpt: This episode I talk with my friend Bonita about dating and issues
-image: /assets/image/show-logo.png
+excerpt: "I talk with my friend Bonita about dating and issues"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-06-03
 ---
 

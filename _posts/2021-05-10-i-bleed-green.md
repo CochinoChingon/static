@@ -1,13 +1,12 @@
 ---
 title: I Bleed Green
-exerpt: This episode is about my time in the military, specifically basic training. and a few other ramblings regarding life and racism
-image: /assets/image/show-logo.png
+excerpt: "This is about my time in the military, specifically basic training. and a few other ramblings regarding life and racism"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-05-10
 ---
 

@@ -1,13 +1,12 @@
 ---
 title: Toxic Femininity
-exerpt: Today I talk about an issue I've seen with increasing frequency. This time I'm just going to highlight what it is I am seeing and in the future I will talk more about how to address it
-image: /assets/image/show-logo.png
+excerpt: "There's an issue I've seen with increasing frequency I'm just going to highlight what it is I am seeing"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-07-29
 ---
 

@@ -1,13 +1,12 @@
 ---
 title: Successful Relationships
-exerpt: Today I talk with Bella and Nova from "Let's Talk About It Podcast" you can find them on [Anchor](https://anchor.fm/bella-w7) and on [Instagram](https://www.instagram.com/letstalkaboutit3435/)
-image: /assets/image/show-logo.png
+excerpt: "Today I talk with Bella and Nova from 'Let's Talk About It Podcast' you can find them on [Anchor](https://anchor.fm/bella-w7) and on [Instagram](https://www.instagram.com/letstalkaboutit3435/)"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-08-02
 ---
 <iframe src="https://open.spotify.com/embed-podcast/episode/4IeQmAVHYBE0jtxSD4ef9H" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

@@ -1,10 +1,12 @@
 ---
 title: Once Again with Cookie
 date: 2021-09-20
+excerpt: "Once again I have a conversation with Cookie, she was the former [sex work](https://anchor.fm/sucias/episodes/Sex-Work-e14j4h2)er I interviewed in the episode of the same name"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: true
+  show_overlay_excerpt: true
   overlay_filter: 0.6
 podcast_image: /assets/images/show-logo.png
 ---

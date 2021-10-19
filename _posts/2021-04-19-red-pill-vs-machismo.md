@@ -1,13 +1,12 @@
 ---
 title: Red Pill vs Machismo
-exerpt: Is there a difference between Red Pill and Machismo? well today you gon lurn. as mentioned in this episode, here are two of the thesis I mentioned.
-image: /assets/image/show-logo.png
+excerpt: Is there a difference between Red Pill and Machismo? well today you gon lurn. as mentioned in this episode, here are two of the thesis I mentioned.
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-04-19
 ---
 

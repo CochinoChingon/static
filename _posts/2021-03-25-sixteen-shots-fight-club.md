@@ -1,7 +1,8 @@
 ---
 title: Fight Club
-exerpt: In this episode we discuss beef between friends and business, Sex addiction, turning 40 and DW4
+excerpt: "In this episode we discuss beef between friends and business, Sex addiction, turning 40 and DW4"
 date: 2021-03-25
+author_profile: true
 category: feat
 header:
   teaser: /assets/images/16shots.png

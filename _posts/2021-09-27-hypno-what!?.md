@@ -1,11 +1,12 @@
 ---
 title: Hypno wHaT!?
-exerpt: In this episode I speak with J. Robert Parker is a Union certified Master Hypnotist and owner of Twin Ravens Hypnotherapy and Research LLC. Mr. Parker's mission statement is simple- To be the light for those of us who cannot see, the guide for those of us who have lost the way, and the peace for those of us who have forgotten. He is available for lectures, interviews and both group and private sessions.
+excerpt: "I speak with J. Robert Parker is a Union certified Master Hypnotist and owner of Twin Ravens Hypnotherapy and Research LLC"
+author_profile: true
 date: 2021-09-27
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: true
+  show_overlay_excerpt: true
   overlay_filter: 0.6
 podcast_image: /assets/images/show-logo.png
 ---

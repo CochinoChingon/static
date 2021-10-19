@@ -1,11 +1,11 @@
 ---
 title: Relationships are Overrated
-exerpt: Today I have a conversation with my high school friend JB about dating and the dynamics between males and females
+excerpt: Today I have a conversation with my high school friend JB about dating and the dynamics between males and females
 image: /assets/image/show-logo.png
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
   og_images: /assets/images/episodes/cover.png
 date: 2021-05-24

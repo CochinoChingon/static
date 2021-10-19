@@ -1,6 +1,6 @@
 ---
 title: MeToo if it's convenient, Or How there's a Darkside of MeToo and how I learned to handle it
-exerpt: "Issues surrounding MeToo, from being harassed, falsely accused and other things."
+excerpt: "Issues surrounding MeToo, from being harassed, falsely accused and other things."
 author_profile: true
 
 description: "Issues surrounding MeToo, from being harassed, falsely accused and other things."
@@ -8,7 +8,7 @@ description: "Issues surrounding MeToo, from being harassed, falsely accused and
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: true
+  show_overlay_excerpt: true
   overlay_filter: 0.6
 
 date: 2021-01-23

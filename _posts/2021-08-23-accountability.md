@@ -1,13 +1,12 @@
 ---
 title: Accountability
-exerpt: here are the mental health apps and links mentioned in this podcast
-image: /assets/image/show-logo.png
+excerpt: "here are the mental health apps and links mentioned in this podcast"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-08-23
 ---
 

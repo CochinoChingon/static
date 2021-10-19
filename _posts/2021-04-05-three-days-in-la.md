@@ -1,12 +1,12 @@
 ---
 title: Three Days in LA
-exerpt: "I managed to get together with a friend that has worked on popular shows"
+excerpt: "I managed to get together with a friend that has worked on popular shows"
 author_profle: true
 description: "I managed to get together with a friend that has worked on popular shows"
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
 date: 2021-04-05
 ---

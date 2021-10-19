@@ -1,13 +1,12 @@
 ---
 title: New Friend
-exerpt: Today I talk with my new friend who happens to be friends with my sister, about kink, consent and confidence
-image: /assets/image/show-logo.png
+excerpt: "Today I talk with my new friend who happens to be friends with my sister, about kink, consent and confidence"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-06-24
 ---
 <iframe src="https://open.spotify.com/embed-podcast/episode/5VJgS1pCoh0aOMp7waeWXs" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

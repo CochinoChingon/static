@@ -1,13 +1,12 @@
 ---
 title: Are you having the best sex
-exerpt: this episode is short but important. with a simple question, are you having the best sex with your current partner? if not, I have a few simple tips to make it better
-image: /assets/image/show-logo.png
+excerpt: "are you having the best sex with your current partner? if not, I have a few simple tips to make it better"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-06-14
 ---
 

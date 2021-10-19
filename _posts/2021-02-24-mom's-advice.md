@@ -1,13 +1,13 @@
 ---
 title: mom's advice, Or the best advice I got from my mom that's helped me for a few decades
-exerpt: "Mom's Advice, or the best advice I got from my mom that's helped me for a few decades."
+excerpt: "Mom's Advice, or the best advice I got from my mom that's helped me for a few decades."
 author_profile: true
 
 description: "Mom's Advice, or the best advice I got from my mom that's helped me for a few decades."
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
   
 date: 2021-02-24

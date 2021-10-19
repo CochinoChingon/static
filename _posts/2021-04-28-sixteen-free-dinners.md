@@ -1,13 +1,12 @@
 ---
 title: Sixteen Free Dinners
-exerpt: This episode I talk about the time… times? that I got 16 free dinners.
-image: /assets/image/show-logo.png
+excerpt: "Did I tell you about about the time… times? that I got 16 free dinners"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-04-28
 ---
 

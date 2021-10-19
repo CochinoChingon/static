@@ -1,11 +1,12 @@
 ---
 title: Orgasm Statistics
-exerpt: This episode I have a conversation with Bonita re- [Orgasm Statistics](https://pleasurebetter.com/orgasm-statistics/)
+excerpt: "This episode I have a conversation with Bonita re- [Orgasm Statistics](https://pleasurebetter.com/orgasm-statistics/)"
+author_profile: true
 date: 2021-10-11
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: true
+  show_overlay_excerpt: true
   overlay_filter: 0.6
 podcast_image: /assets/images/show-logo.png
 ---

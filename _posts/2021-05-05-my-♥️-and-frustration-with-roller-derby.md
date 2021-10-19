@@ -1,13 +1,12 @@
 ---
 title: My ♥️ and Frustration with Roller Derby
-exerpt: Today I talk about my love and frustration with roller derby and how it could fix itself… if they can get their head out of their ass.
-image: /assets/image/show-logo.png
+excerpt: "My love and frustration with roller derby and how it could fix itself… if they can get their head out of their ass"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-05-05
 ---
 

@@ -1,18 +1,16 @@
 ---
 title: Child Support, Paternal Rights and Paternity, Or how Family law is not concerned with family
 
-exerpt: "I talk about my experience with the Family court system and how they can adversely affect males even when they're well intentioned"
-
+excerpt: "I talk about my experience with the Family court system and how they can adversely affect males even when they're well intentioned"
 
 author_profile: true
 
 description: "I talk about my experience with the Family court system and how they can adversely affect males even when they're well intentioned"
 
-
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
 
 date: 2021-03-31

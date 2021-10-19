@@ -1,13 +1,12 @@
 ---
 title: Judeo Christian Catholic Stuff
-exerpt: a discussion with a new friend about Judeo-Christian/Catholic relations
-image: /assets/image/show-logo.png
+excerpt: "a discussion with a new friend about Judeo-Christian/Catholic relations"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-05-17
 ---
 

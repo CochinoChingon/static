@@ -1,12 +1,13 @@
 ---
 title: catching up
-image: /image/show-logo.png
+excerpt: "Today I talk with my friend Marina and she spills some tea on me and other things"
+date: 2021-09-06
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 ---
 
 Today I talk with my friend Marina and she shares some insight about me. She's based in L.A. (Los Angeles, not Louisiana for my southern friends) She does lash extensions and you can find her work on IG [@lashes_are_life_](https://www.instagram.com/lashes_are_life_)

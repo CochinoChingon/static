@@ -1,13 +1,12 @@
 ---
 title: Not All Men
-exerpt: As promised, this is the link to the post we were referring to in this episode.
-image: /assets/image/show-logo.png
+excerpt: "As promised, this is the link to the post we were referring to in this episode"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-08-16
 ---
 <iframe src="https://open.spotify.com/embed-podcast/episode/35xrVEDxZH7G4X47e5GtZ6" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

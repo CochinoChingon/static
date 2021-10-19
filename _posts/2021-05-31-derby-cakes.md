@@ -1,15 +1,15 @@
 ---
 title: Derby Cakes
-exerpt: "Chat with my friend Cakes, about Roller Derby, where it's at, where it's going and can we course correct"
+excerpt: "Chat with my friend Cakes, about Roller Derby, where it's at, where it's going and can we course correct"
 author_profile: true
 description: "Chat with my friend Cakes, about Roller Derby, where it's at, where it's going and can we course correct"
 
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: true
+  show_overlay_excerpt: true
   overlay_filter: 0.6
-date: 2021-03-31
+date: 2021-05-31
 ---
 
 Derby Cakes

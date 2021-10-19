@@ -1,13 +1,11 @@
 ---
 title: My Christian Friend in Nippon
-exerpt: Today I chat with my friend Steve in Japan. Sidenote, Japan is called Nippon in Japan. And today we talk a little about Christianity
-image: /assets/image/show-logo.png
+excerpt: "I chat with my friend Steve in Japan. Sidenote, Japan is called Nippon in Japan. And today we talk a little about Christianity"
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-07-08
 ---
 <iframe src="https://open.spotify.com/embed-podcast/episode/7sOfnK9F10od5dXwOTrsgM" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

@@ -1,6 +1,6 @@
 ---
 title: Amar y Querer, Or how a song from the 70s taught me the meaning of love almost 30 years later
-exerpt: "I talk a little about my childhood and a lot about my late wife and how I learned to value love over lust"
+excerpt: "I talk a little about my childhood and a lot about my late wife and how I learned to value love over lust"
 author_profile: true
 
 description: "I talk a little about my childhood and a lot about my late wife and how I learned to value love over lust"
@@ -8,7 +8,7 @@ description: "I talk a little about my childhood and a lot about my late wife an
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
 
 date: 2021-03-24

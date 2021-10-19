@@ -1,13 +1,12 @@
 ---
 title: Confidence
-exerpt: if I could bottle up my confidence I do so in a heartbeat and give out samples. But since I haven't figured out how to do that, I'm gonna talk about how to approach females, or rather go back to basics and talk a little about hygiene
-image: /assets/image/show-logo.png
+excerpt: "since I haven't figured out how to bottle up my confidence, I'm gonna talk about how to approach females, or rather go back to basics"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-05-27
 ---
 

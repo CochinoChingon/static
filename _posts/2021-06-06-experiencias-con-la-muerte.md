@@ -1,12 +1,13 @@
 ---
 title: Experiencias con la Muerte
-exerpt: Este es el primer episodio donde los muchachos de El Buruleo disectan las experiencias de muerte de 4 individuos que han tenido la valentia de explicarnos como fue y como regresaron.
+excerpt: "Este es el primer episodio donde los muchachos de El Buruleo disectan las experiencias de muerte de 4 individuos que han tenido la valentia de explicarnos como fue y como regresaron"
+author_profile: true
 date: 2021-06-06
 category: feat
 header:
   teaser: /assets/images/ebeclm.jpg
   overlay_image: /assets/images/ebeclm.jpg
-  show_overlay_exerpt: true
+  show_overlay_excerpt: true
   overlay_filter: 0.6
 podcast_image: /assets/images/ebeclm.jpg
 ---

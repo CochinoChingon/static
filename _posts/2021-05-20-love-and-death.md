@@ -1,13 +1,12 @@
 ---
 title: Love and Death
-exerpt: This episode is about love and death. particularly finding true love before you die and the joy of having a cheerleader
-image: /assets/image/show-logo.png
+excerpt: "This is about love and death. particularly finding true love before you die and the joy of having a cheerleader"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-05-20
 ---
 

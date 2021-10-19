@@ -1,6 +1,7 @@
 ---
 title: Gallo Chingon, Leaving the Rat Race for Podcasting and Other Pursuits
-exerpt: Shaved head, painted fingernails, multiple earring that’s Gallo Chingon, the podcaster behind Sucias are my Favorite, a welcome addition to our local landscape.
+excerpt: "Shaved head, painted fingernails, multiple earring that’s Gallo Chingon, the podcaster behind Sucias are my Favorite, a welcome addition to our local landscape"
+author_profile: true
 date: 2021-06-17
 category: feat
 header:

@@ -1,6 +1,7 @@
 ---
 title: Random Kinks
-exerpt: Join us as we talk Random Kinks with our first guest Gallo Chingon from "Sucias are my Favorite" podcast!
+excerpt: "Join us as we talk Random Kinks with our first guest Gallo Chingon from 'Sucias are my Favorite' podcast!"
+author_profile: true
 date: 2021-07-07
 category: feat
 header:

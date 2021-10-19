@@ -1,7 +1,7 @@
 ---
 title: Breaking up is hard to do, Or how to breakup so your ex never bothers you again unless you two have a kid
 
-exerpt: "how to break up with your ex that will bring closure to the relationship, instead of having to deal with a zombie every few months"
+excerpt: "how to break up with your ex that will bring closure to the relationship, instead of having to deal with a zombie every few months"
 author_profile: true
 
 description: "how to break up with your ex that will bring closure to the relationship, instead of having to deal with a zombie every few months"
@@ -9,7 +9,7 @@ description: "how to break up with your ex that will bring closure to the relati
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
 
 date: 2021-02-17

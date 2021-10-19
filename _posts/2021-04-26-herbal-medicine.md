@@ -1,17 +1,14 @@
 ---
 title: Herbal Medicine
-exerpt: this episode I talk about my experience with legal and illegal drugs and my preference for eastern and or herbal medicine.
-image: /assets/image/show-logo.png
+excerpt: "my experience with legal and illegal drugs and my preference for eastern and or herbal medicine"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-04-26
 ---
-
-Herbal Medicine
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/7dyCnnDxulRpcF1XklXZZJ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 

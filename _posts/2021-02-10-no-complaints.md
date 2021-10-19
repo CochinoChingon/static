@@ -1,13 +1,13 @@
 ---
 title: No Complaints, Or the funny shit females say to try and impress me and how I go about my business
-exerpt: "Females have said some funny things that have said to impress me."
-
+excerpt: "Females have said some funny things that have said to impress me."
+author_profile: true
 description: "Females have said some funny things that have said to impress me."
 
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
 
 date: 2021-02-10
 ---

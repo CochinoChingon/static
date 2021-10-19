@@ -1,13 +1,12 @@
 ---
 title: Unicorn Lost
-exerpt: Today I talk about how I lost my unicorn. I mean, come on, what red blooded Chicano would willingly give up a Unicorn that can pick up females with ease?
-image: /assets/image/show-logo.png
+excerpt: "What red blooded Chicano would willingly give up a Unicorn that can pick up females with ease?"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-07-12
 ---
 

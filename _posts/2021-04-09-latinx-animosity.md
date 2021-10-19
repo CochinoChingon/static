@@ -1,13 +1,12 @@
 ---
 title: Latinx Animosity, or how I merged two different episodes into one
-exerpt: Another episode, this time I'm talking about animosity I've noticed over the years that I hadn't paid attention to, until I spoke on a friends podcast.
-image: /assets/image/show-logo.png
+excerpt: Another episode, this time I'm talking about animosity I've noticed over the years that I hadn't paid attention to, until I spoke on a friends podcast.
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-04-09
 ---
 

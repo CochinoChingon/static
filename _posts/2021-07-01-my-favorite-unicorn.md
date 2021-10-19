@@ -1,13 +1,12 @@
 ---
 title: My Favorite Unicorn
-exerpt: today I talk about my favorite unicorn, what is a unicorn and what we did together that made her my favorite
-image: /assets/image/show-logo.png
+excerpt: "What is a unicorn and what we did together that made her my favorite"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-07-01
 ---
 

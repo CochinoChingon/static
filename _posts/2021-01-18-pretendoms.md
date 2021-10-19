@@ -1,9 +1,11 @@
 ---
 title: pretendoms, Or the Problems with 50 Shades of Stupid and how I think we got here
+excerpt: "The problem with pretendoms isn't just that they've managed to get into the kink community…"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
 
 date: 2021-01-18

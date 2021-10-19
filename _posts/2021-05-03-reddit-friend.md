@@ -1,13 +1,12 @@
 ---
 title: Reddit Friend
-exerpt: Today I talk with my friend in Japan (Nippon) for the first time over Video! Nothing to crazy, just chatting about how we met and why I remain friends with him.
-image: /assets/image/show-logo.png
+excerpt: "I talk with my friend in Japan (Nippon) for the first time over Video! Nothing to crazy, just chatting about how we met and why I remain friends with him"
+author_profile: true
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
-  show_overlay_exerpt: false
+  show_overlay_excerpt: false
   overlay_filter: 0.6
-  og_images: /assets/images/episodes/cover.png
 date: 2021-05-03
 ---
 <iframe src="https://open.spotify.com/embed-podcast/episode/169UgSgmrPrKjdYlwgFQyU" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
