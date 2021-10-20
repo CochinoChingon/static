@@ -1,6 +1,6 @@
 ---
 title: Santa Muerte & The Third Eye
-excerpt: "Welcome to another episode of Blood Rituals, now featuring an amazing Guest Gallo Chingon! Today, we delve into Gallo’s experiences with his ancestors attempts to reach out to him, as well as the beckoning from Santa Muerte"
+excerpt: "Today, we delve into Gallo’s experiences with his ancestors attempts to reach out to him, as well as the beckoning from Santa Muerte"
 author_profile: true
 date: 2021-09-24
 category: feat
