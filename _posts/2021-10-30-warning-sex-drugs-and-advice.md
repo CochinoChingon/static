@@ -15,11 +15,17 @@ podcast_image: /assets/images/pgp.png
 <iframe src='https://embed.podcasts.apple.com/us/podcast/94-warning-sex-drugs-and-advice/id1499531567?i=1000540207833&itsct=podcast_box_player&itscg=30200&ls=1&amp;theme=dark' width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Sooooo this week - we knock on somethings that straight up aren't for everyone. We still talk about the random here and there Videogames like we always do. We even go retro with things, Military Old Skool cool and the other things, but in all reality after that it's a cr*p shoot. We hit a story that has, layers and layers. From Drugs and Sex to cheating to the straight up life style of a Sex Addict. So be forewarned - or you've been forewarned. Oh yeah and the Ask Reddit Questions we answer.
-cochinochingon.com/about
-Podcast Sucias are my Favorite
-@CochinoChingon (IG, Snap, TT, Twitter, Reddit)
-@sucias_my_fave (IG, Twitter)
-@suciasaremyfavorite (Reddit)
+
+[cochinochingon about](cochinochingon.com/about)
+
+Podcast [Sucias are my Favorite](https://anchor.fm/sucias)
+
+@CochinoChingon ([IG](https://www.instagram.com/cochinochingon/), [Snap](http://www.snapchat.com/add/cochinochingon), [TikTok](https://www.tiktok.com/@cochinochingon/), [Twitter](http://twitter.com/cochinochingon), [Reddit](https://www.reddit.com/user/cochinochingon))
+
+@sucias_my_fave ([IG](https://instagram.com/sucias_my_fave), [Twitter](https://twitter.com/sucias_my_fave))
+
+[@suciasaremyfavorite](https://reddit.com/u/suciasaremyfavorite) (Reddit)
+
 
 If you want to hit me up, be on the podcast, tell me you’re the one who downloads/listens immediately or just have a question you want to be featured on the podcast - parrotgamingstudio@gmail.com
 
