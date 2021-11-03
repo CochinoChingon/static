@@ -12,7 +12,7 @@ header:
 podcast_image: /assets/images/show-logo.png
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/sugar-lips/id1548173787?i=1000539602011&itsct=podcast_box_player&itscg=30200&ls=1&amp;theme=dark' width='100%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/sugar-lips/id1548173787?i=1000539602011&itsct=podcast_box_player&itscg=30200&ls=1&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Today I chat with Sugar Lips a one time plaything and talk about her situationships. Once again she shares what women look for most in a male that they're interested in.
 

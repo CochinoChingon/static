@@ -1,8 +1,7 @@
 ---
 title: NaPodMo Challenge Day 1
 author_profile: true
-excerpt: "This episode I let y'all know what I'm up to this month, and what my podcasting journey has been like.
-"
+excerpt: "This episode I let y'all know what I'm up to this month, and what my podcasting journey has been like"
 date: 2021-11-01
 header:
   teaser: /assets/images/header-single-episode.png
@@ -12,7 +11,7 @@ header:
 podcast_image: /assets/images/show-logo.png
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-challenge-day-1/id1548173787?i=1000540351088&itsct=podcast_box_player&itscg=30200&ls=1&amp;theme=dark' width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-challenge-day-1/id1548173787?i=1000540351088&itsct=podcast_box_player&itscg=30200&ls=1&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 This episode I let y'all know what I'm up to this month, and what my podcasting journey has been like.
 

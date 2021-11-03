@@ -1,8 +1,7 @@
 ---
 title: NaPodMo What Cheating
 author_profile: true
-excerpt: "This is sort of a compilation episode where I have the responses of a few of my guests answer what they think cheating is.
-"
+excerpt: "This is sort of a compilation episode where I have the responses of a few of my guests answer what they think cheating is"
 date: 2021-11-02
 header:
   teaser: /assets/images/header-single-episode.png
@@ -12,7 +11,7 @@ header:
 podcast_image: /assets/images/show-logo.png
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-what-cheating/id1548173787?i=1000540478878&itsct=podcast_box_player&itscg=30200&ls=1&amp;theme=dark' width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-what-cheating/id1548173787?i=1000540478878&itsct=podcast_box_player&itscg=30200&ls=1&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 This is sort of a compilation episode where I have the responses of a few of my guests answer what they think cheating is.
 
