@@ -1,8 +1,8 @@
 ---
-title: NaPodMo BDsM
+title: Debunking Myths
 author_profile: true
-excerpt:  Answering some BDsM and kink questions, hopefully it'll be as clear as mud
-date: 2021-11-09
+excerpt:  YES, I have another chat with J Robert Parker about hypnosis, but this time we chat about the movie Hypnotic on Netflx. 
+date: 2021-11-19
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
@@ -11,9 +11,11 @@ header:
 podcast_image: /assets/images/show-logo.png
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-bdsm/id1548173787?i=1000541206814&itsct=podcast_box_player&itscg=30200&ls=1&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/debunking-myths/id1548173787?i=1000542528047&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
-Answering some BDsM and kink questions, hopefully it'll be as clear as mud
+YES, I have another chat with J Robert Parker about hypnosis, but this time we chat about the movie Hypnotic on Netflx. 
+
+With his help we debunk some of the ideas, tropes and misguided parts of this movie
 
 # Mentioned items
 

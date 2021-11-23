@@ -1,8 +1,8 @@
 ---
-title: Anna in der Schweiz
+title: NaPodPoMo BDsM
 author_profile: true
-excerpt:  Today I have a conversation with Anna who is currently in Switzerland.
-date: 2021-11-11
+excerpt:  Answering some BDsM and kink questions, hopefully it'll be as clear as mud
+date: 2021-11-09
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
@@ -11,9 +11,9 @@ header:
 podcast_image: /assets/images/show-logo.png
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/anna-in-switzerland/id1548173787?i=1000541465297&itsct=podcast_box_player&itscg=30200&ls=1&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-bdsm/id1548173787?i=1000541206814&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
-Today I have a conversation with Anna who is currently in Switzerland. There's more to Anna than meets the ~~ey~~ ear.
+Answering some BDsM and kink questions, hopefully it'll be as clear as mud
 
 # Mentioned items
 
