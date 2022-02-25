@@ -1,7 +1,7 @@
 ---
 title: red pill v machismo… again
 author_profile: true
-excerpt:  Today's the last episode of NaPodPoMo! 
+excerpt:  once again I talk about the red pill and machismo.
 date: 2022-01-17
 header:
   teaser: /assets/images/header-single-episode.png
