@@ -1,7 +1,7 @@
 ---
 title: Rejection
 author_profile: true
-excerpt:  Today's the last episode of NaPodPoMo! 
+excerpt:  Today we talk about rejection, how to move past it, and hopefully still end up getting a date.
 date: 2022-01-24
 header:
   teaser: /assets/images/header-single-episode.png

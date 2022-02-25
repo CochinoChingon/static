@@ -1,7 +1,7 @@
 ---
 title: Confidence Building
 author_profile: true
-excerpt:  Today's guest is David Khalili, a Marriage and Family Therapist with a focus on working with men, couples therapy, and multi-ethnic individuals. And we talk about building confidence and having a conversation with your significant other.
+excerpt:  Today's guest is David Khalili, a Marriage and Family Therapist with a focus on working with men, couples therapy, and multi-ethnic individuals.
 date: 2022-02-07
 header:
   teaser: /assets/images/header-single-episode.png
