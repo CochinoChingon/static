@@ -1,7 +1,7 @@
 ---
 title: A Man's Man… Stoicism
 author_profile: true
-excerpt:  his episode was inspired by this article on askmen.com    it will be a multipart series on what the article covers, Stoicism, Bravery, Chivalry, Being Skillful, Leadership, a Good Listener, and being an Individual. This we I start off with stoicism, where I go over the article, and give my take on each trait. follow along and let me know what your thoughts are on the subject
+excerpt:  This episode was inspired by an article on askmen.com
 date: 2022-01-31
 header:
   teaser: /assets/images/header-single-episode.png
