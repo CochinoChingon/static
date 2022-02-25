@@ -1,7 +1,7 @@
 ---
 title: lifestyle
 author_profile: true
-excerpt:  Today's the last episode of NaPodPoMo! 
+excerpt:  Today I have a chat with the lovely and multi-talented Coralyn Jewel
 date: 2022-01-10
 header:
   teaser: /assets/images/header-single-episode.png
