@@ -11,7 +11,7 @@ header:
 podcast_image: /assets/images/show-logo.png
 ---
 
-<iframe src='<iframe src="https://embed.embed.podcasts.apple.com/us/podcast/what-is-love/id1548173787?i=1000556155495&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; background-color: transparent;"></iframe>&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='<iframe src="https://embed.embed.podcasts.apple.com/us/podcast/what-is-love/id1548173787?i=1000556155495&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=dark" width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe> 
 
 This episode I delve into the word love, it's various meanings and my takeaway. Plus a call back to episode 50, after all, this is episode 100 if you've been keeping track
 
