@@ -4,8 +4,6 @@ author_profile: true
 excerpt:  "This episode is my take on the 6th paragraph in this article by askmen.com 'How to be a Man's Man in a Culture That Hates Masculinity' where the topic is Listening" 
 date: 2022-05-09
 header:
-  teaser: /assets/images/header-single-episode.png
-  overlay_image: /assets/images/header-single-episode.png
   show_overlay_exerpt: true
   overlay_filter: 0.6
 podcast_image: /assets/images/show-logo.png
