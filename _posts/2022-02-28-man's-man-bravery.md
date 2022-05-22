@@ -2,7 +2,7 @@
 title: Man's Man Bravery
 author_profile: true
 excerpt:  "this week I continue my take on an article by askmen.com this week it's on 'bravery'"
-date: 2022-28-02
+date: 2022-02-28
 header:
   teaser: /assets/images/header-single-episode.png
   overlay_image: /assets/images/header-single-episode.png
