@@ -8,7 +8,5 @@ header:
     overlay_image: "/assets/images/header-home.png"
     og_image: "/assets/images/og-default-header.png"
 excerpt: "You're probably looking for something else"
-<a href='https://sucias.xyz'>sucias</a>
-<h2>A podcast about life, dating and relationship advice with a kink twist</h2>
-
 ---
+[https://sucias.xyz](sucias)
