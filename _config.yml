@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "
 title                    : "Cochino Chingon"
 description              : "A podcast about dating and relationship advice with a kink twist, life experiences, and personal stories"
 teaser                   : "assets/images/og_default_header.png"
-search                   : true # true, false (default)
+search                   : false # true, false (default)
 
 # Social Sharing
 twitter_username: "sucias_r_my_fav"
