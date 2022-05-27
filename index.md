@@ -6,7 +6,5 @@ title: "You're probably looking for something else"
 header:
     overlay_filter: "0.6"
     overlay_image: "/assets/images/header-home.png"
-    og_image: "/assets/images/og-default-header.png"
-excerpt: "You're probably looking for something else"
 ---
-[https://sucias.xyz](sucias)
+Maybe the [Sucias](https://sucias.xyz) are my Favorite [Podcast](https://anchor.fm/sucias)
